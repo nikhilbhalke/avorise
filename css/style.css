@@ -197,7 +197,7 @@ a:focus, a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color: #ffffff;
 }
 
 .bg-dark {
@@ -420,7 +420,7 @@ a:focus, a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .title h2 span {
@@ -440,7 +440,7 @@ a:focus, a:hover {
 }
 
 .section-bg {
-  background: #292F36;
+  background: #ffffff;
 }
 
 .overly {
@@ -523,6 +523,8 @@ a:focus, a:hover {
   Navigation
 ==================================================================*/
 .navigation {
+  -webkit-box-shadow: -1px 0px 15px 2px #777777; 
+  box-shadow: -1px 0px 15px 2px #777777;
   background-color: #ffffff;
   width: 100%;
   z-index: 99;

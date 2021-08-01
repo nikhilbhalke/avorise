@@ -22,6 +22,7 @@
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: #ce3ad3;
 }
 
 .tf-ion-alert-circled:before {
@@ -2359,159 +2360,211 @@
   content: "\e02d";
 }
 .tf-attachment:before {
-  content: "\e02e";
+  content: "\e02e";color: #ce3ad3;
 }
 .tf-pricetags:before {
   content: "\e02f";
+  color: #ce3ad3;
 }
 .tf-lightbulb:before {
   content: "\e030";
+  color: #ce3ad3;
 }
 .tf-layers:before {
   content: "\e031";
+  color: #ce3ad3;
 }
 .tf-pencil2:before {
   content: "\e032";
+  color: #ce3ad3;
 }
 .tf-tools:before {
   content: "\e033";
+  color: #ce3ad3;
 }
 .tf-tools-2:before {
   content: "\e034";
+  color: #ce3ad3;
 }
 .tf-scissors2:before {
   content: "\e035";
+  color: #ce3ad3;
 }
 .tf-paintbrush:before {
   content: "\e036";
+  color: #ce3ad3;
 }
 .tf-magnifying-glass:before {
   content: "\e037";
+  color: #ce3ad3;
 }
 .tf-circle-compass:before {
   content: "\e038";
+  color: #ce3ad3;
 }
 .tf-linegraph:before {
   content: "\e039";
+  color: #ce3ad3;
 }
 .tf-mic:before {
   content: "\e03a";
+  color: #ce3ad3;
 }
 .tf-strategy:before {
   content: "\e03b";
+  color: #ce3ad3;
 }
 .tf-beaker:before {
   content: "\e03c";
+  color: #ce3ad3;
 }
 .tf-caution:before {
   content: "\e03d";
+  color: #ce3ad3;
 }
 .tf-recycle2:before {
   content: "\e03e";
+  color: #ce3ad3;
 }
 .tf-anchor2:before {
   content: "\e03f";
+  color: #ce3ad3;
 }
 .tf-profile-male:before {
   content: "\e040";
+  color: #ce3ad3;
 }
 .tf-profile-female:before {
   content: "\e041";
+  color: #ce3ad3;
 }
 .tf-bike:before {
   content: "\e042";
+  color: #ce3ad3;
 }
 .tf-wine:before {
   content: "\e043";
+  color: #ce3ad3;
 }
 .tf-hotairballoon:before {
   content: "\e044";
+  color: #ce3ad3;
 }
 .tf-globe:before {
   content: "\e045";
+  color: #ce3ad3;
 }
 .tf-genius:before {
   content: "\e046";
+  color: #ce3ad3;
 }
 .tf-map-pin:before {
   content: "\e047";
+  color: #ce3ad3;
 }
 .tf-dial:before {
   content: "\e048";
+  color: #ce3ad3;
 }
 .tf-chat:before {
   content: "\e049";
+  color: #ce3ad3;
 }
 .tf-heart2:before {
   content: "\e04a";
+  color: #ce3ad3;
 }
 .tf-upload2:before {
   content: "\e04c";
+  color: #ce3ad3;
 }
 .tf-download2:before {
   content: "\e04d";
+  color: #ce3ad3;
 }
 .tf-target3:before {
   content: "\e04e";
+  color: #ce3ad3;
 }
 .tf-hazardous:before {
   content: "\e04f";
+  color: #ce3ad3;
 }
 .tf-piechart:before {
   content: "\e050";
+  color: #ce3ad3;
 }
 .tf-speedometer:before {
   content: "\e051";
+  color: #ce3ad3;
 }
 .tf-global:before {
   content: "\e052";
+  color: #ce3ad3;
 }
 .tf-compass:before {
   content: "\e053";
+  color: #ce3ad3;
 }
 .tf-lifesaver:before {
   content: "\e054";
+  color: #ce3ad3;
 }
 .tf-clock:before {
   content: "\e055";
+  color: #ce3ad3;
 }
 .tf-aperture:before {
   content: "\e056";
+  color: #ce3ad3;
 }
 .tf-quote:before {
   content: "\e057";
+  color: #ce3ad3;
 }
 .tf-scope:before {
   content: "\e058";
+  color: #ce3ad3;
 }
 .tf-alarmclock:before {
   content: "\e059";
+  color: #ce3ad3;
 }
 .tf-refresh:before {
   content: "\e05a";
+  color: #ce3ad3;
 }
 .tf-happy:before {
   content: "\e05b";
+  color: #ce3ad3;
 }
 .tf-facebook:before {
   content: "\e05d";
+  color: #ce3ad3;
 }
 .tf-twitter:before {
   content: "\e05e";
+  color: #ce3ad3;
 }
 .tf-googleplus:before {
   content: "\e05f";
+  color: #ce3ad3;
 }
 .tf-rss:before {
   content: "\e060";
+  color: #ce3ad3;
 }
 .tf-tumblr:before {
   content: "\e061";
+  color: #ce3ad3;
 }
 .tf-linkedin:before {
   content: "\e062";
+  color: #ce3ad3;
 }
 .tf-dribbble:before {
   content: "\e063";
+  color: #ce3ad3;
 }
+color: #ce3ad3;
 
