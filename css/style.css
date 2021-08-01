@@ -705,7 +705,7 @@ a:focus, a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
+  background: #000000;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
