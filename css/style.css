@@ -24,7 +24,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #000000;
 }
 
 p {
@@ -108,7 +108,7 @@ a:focus, a:hover {
   border-radius: 0;
   padding: 5px 10px;
   border: 0 none;
-  color: #ddd;
+  color: rgb(0, 0, 0);
 }
 
 .form-control:focus {
@@ -117,22 +117,22 @@ a:focus, a:hover {
 
 .form-control::-webkit-input-placeholder {
   /*  Chrome, Safari, Opera  */
-  color: #ddd;
+  color: rgb(0, 0, 0);
 }
 
 .form-control:-moz-placeholder {
   /* Firefox 18- */
-  color: #ddd;
+  color: rgb(0, 0, 0);
 }
 
 .form-control::-moz-placeholder {
   /* Firefox 19+ */
-  color: #ddd;
+  color: rgb(0, 0, 0);
 }
 
 .form-control:-ms-input-placeholder {
   /*  Internet Explorer  */
-  color: #ddd;
+  color: rgb(0, 0, 0);
 }
 
 #loading-mask {
