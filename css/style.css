@@ -276,7 +276,7 @@ a:focus, a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #ce3ad3;
   color: #fff;
 }
 
@@ -1223,7 +1223,7 @@ a:focus, a:hover {
 }
 
 .member-photo .mask {
-  background-color: rgba(87, 203, 204, 0.7);
+  background-color: rgba(248, 201, 234, 0.7);
   position: absolute;
   text-align: center;
   height: 100%;
