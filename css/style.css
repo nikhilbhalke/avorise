@@ -577,12 +577,12 @@ a:focus, a:hover {
 }
 
 .navbar-toggle {
-  border: 1px solid #fff;
+  border: 1px solid rgb(0, 0, 0);
   border-radius: 0;
 }
 
 .navbar-toggle span {
-  background: #fff;
+  background: rgb(0, 0, 0);
 }
 
 .bg-1 {
